@@ -1,7 +1,7 @@
 
 ## Superstore Sales & Profit Dashboard
 
-![Dashboard preview]() 
+![Dashboard preview](https://github.com/saurav190101/Superstore-Power-BI/blob/main/Screenshot%202025-08-21%20114101.png) 
 
 ## Project Overview
 
@@ -58,7 +58,7 @@ Excel / SQL (optional if used) → Data cleaning and preprocessing
 
 GitHub → Project documentation & portfolio showcase
 
-![Inshigts preview]()
+![Inshigts preview](https://github.com/saurav190101/Superstore-Power-BI/blob/main/Screenshot%202025-08-21%20114122.png)
 
 
 
