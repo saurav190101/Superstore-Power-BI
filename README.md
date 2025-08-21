@@ -1,6 +1,7 @@
 
 ## Superstore Sales & Profit Dashboard
 
+![Dashboard preview]() 
 
 ## Project Overview
 
@@ -57,8 +58,8 @@ Excel / SQL (optional if used) → Data cleaning and preprocessing
 
 GitHub → Project documentation & portfolio showcase
 
-## Dashboard Preview
-inshigts dashbord![]
+![Inshigts preview]()
+
 
 
 ## Key Takeaways
